@@ -21,9 +21,9 @@ $\hat{\beta} = (X^T \Sigma^{-1} X) ^{-1} X ^T \Sigma^{-1}Y$,
 
 e de $U_\phi =0$ tem-se que, 
 
-i) $phi 1$ tr $(\Sigma^{-1} \Sigma^{-1}) + \phi_2 $ tr $(\Sigma^{-1} R \Sigma^{-1}) = w (\delta) \epsilon^T \Sigma^{-1} \Sigma^{-1} \epsilon,$
+$i)\phi 1 tr (\Sigma^{-1} \Sigma^{-1}) + \phi_2 tr (\Sigma^{-1} R \Sigma^{-1}) = w (\delta) \epsilon^T \Sigma^{-1} \Sigma^{-1} \epsilon$
 
-ii)$\phi 1$ tr $(\Sigma^{-1} R (\Sigma^{-1}) + \phi_2$ tr $(\Sigma^{-1} R(\Sigma^{-1} R) = w (\delta) \epsilon ^T(\Sigma^{-1} R \Sigma^{-1} \epsilon)$
+$ii)\phi 1 tr (\Sigma^{-1} R (\Sigma^{-1}) + \phi_2 tr (\Sigma^{-1} R(\Sigma^{-1} R) = w (\delta) \epsilon ^T(\Sigma^{-1} R \Sigma^{-1} \epsilon)$
 
 
 
