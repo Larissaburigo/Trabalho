@@ -12,4 +12,4 @@ Conforme o observado por Zellner (1976), a função log-verossimilhança (4.4) �
 
 As funções escores para o modelo espacial linear T-Student são fornecidas por $U_{\theta}(\theta) = (U^T_\beta, U^T_\phi)^T$, em que 
 
-$Up = \partial L (\theta) /\partial\beta = $
+$Up = \partial L (\theta) /\partial\beta = w(\delta) X^T \Sigma^-1\epsilon  $
