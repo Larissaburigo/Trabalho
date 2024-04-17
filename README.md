@@ -17,4 +17,13 @@ $U = \partial L (\theta) /\partial\beta = w(\delta) X^T \Sigma^-1\epsilon$ and $
 com o j-ésimo elemento de $U_(\phi)$, dado por $U_(\phi)_(j) = U = \partial L (\theta)/\phi_j = -\frac{1}{2}$ tr
 $(\Sigma^-1 (\partial \Sigma / \partial \phi_j)) + \frac{1}{2} w (\delta) \epsilon^T \Sigma^-{1} (\partial \Sigma/\partial\phi_J) \Sigma{^-1}_epsilon$, para j = 1, 2, w $(\delta) = (\frac{1+ \eta\eta}{\eta}) (\frac{c(\eta)}{1+c(\eta)\delta})$ e $\psi$ (x) é a função Digama.Nesse artigo, $\Sigma = \phi_1 I\eta + \phi_2 R$, então $\partial \Sigma/\partial \phi_1 = I\eta$ e $\partial \Sigma/ \partial \phi_2 = R $. Dado $\Sigma$, a função log-verossimilhança (4.4) é maximizada em 
 
+$\hat{\beta} = (X^T \Sigma^{-1} X) ^{-1} X ^T \Sigma^{-1}Y$, 
+
+e de $U_\phi =0$ tem-se que, 
+
+i) $phi 1$ tr $(\Sigma^{-1} \Sigma^{-1}) + \phi_2 $ tr $(\Sigma^{-1} R \Sigma^{-1}) = w (\delta) \epsilon^T \Sigma^{-1} \Sigma^{-1} \epsilon,$
+
+ii)$\phi 1$ tr $(\Sigma^{-1} R (\Sigma^{-1}) + \phi_2$ tr $(\Sigma^{-1} R(\Sigma^{-1} R) = w (\delta) \epsilon ^T(\Sigma^{-1} R \Sigma^{-1} \epsilon)$
+
+
 
