@@ -6,4 +6,4 @@ $L(\theta) = log(k_{n}(\eta)) K n ( eta)) - \frac{1}{2}log(\Sigma) - \frac {1}{2
 
 **(4.4)**
 
-com $log(k_{n}(\eta)) = $
+com $log(k_{n}(\eta)) = \frac {\eta}{2} log (\frac {c(n)}{\pi}) + log \Gamma (\frac {1 + n\eta}{2\eta})$
