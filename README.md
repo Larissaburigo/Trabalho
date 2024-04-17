@@ -10,4 +10,6 @@ com $log(k_{n}(\eta)) = \frac {\eta}{2} log (\frac {c(n)}{\pi}) + log \Gamma (\f
 
 Conforme o observado por Zellner (1976), a função log-verossimilhança (4.4) é uma função decrescente de \eta, e então não pode ser estimado por máximo verossimilhança. Veja também De Bastiani et al.(2015).
 
-As funções escores para o modelo espacial linear T-Student são fornecidas por $U_{\theta}(\theta)$
+As funções escores para o modelo espacial linear T-Student são fornecidas por $U_{\theta}(\theta) = (U^T_\beta, U^T_\phi)^T$, em que 
+
+$Up = \partial L (\theta) /\partial\beta = $
